@@ -1,3 +1,5 @@
 ![1b implementation of doomfire][fire]
+![1b implementation of a maze generator][maze-generator]
 
-[fire]: https://raw.githubusercontent.com/u840903/u840903/master/1b-doomfire.png
+[doomfire]: https://raw.githubusercontent.com/u840903/u840903/master/doomfire.png
+[maze-generator]: https://raw.githubusercontent.com/u840903/u840903/master/maze-generator.png
