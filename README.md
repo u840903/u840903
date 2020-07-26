@@ -6,4 +6,4 @@
 [doomfire]: https://raw.githubusercontent.com/u840903/u840903/master/doomfire.gif
 [maze-generator]: https://raw.githubusercontent.com/u840903/u840903/master/maze-generator.gif
 [game-of-life]: https://raw.githubusercontent.com/u840903/u840903/master/game-of-life.gif
-[flood-fill]: https://raw.githubusercontent.com/u840903/u840903/master/game-of-life.gif
+[flood-fill]: https://raw.githubusercontent.com/u840903/u840903/master/flood-fill.gif
