@@ -1,3 +1,6 @@
+// These styles apply to every route in the application
+import './globals.css'
+
 export default function RootLayout({
   children,
 }: {
@@ -5,7 +8,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body className={"p-8"}>
+      {children}
+      </body>
     </html>
   );
 }
