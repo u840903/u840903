@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sr="http://www.sverigesradio.se/podrss" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+    <channel>
+        <title>Daily News Roundup</title>
+        <link>http://www.dailynewsroundup.com</link>
+        <description>Stay updated with the latest news from around the world with the Daily News Roundup. We bring you concise and insightful news reports every second day.</description>
+        <language>en-us</language>
+        <pubDate>Mon, 29 Jul 2024 12:00:00 GMT</pubDate>
+        <lastBuildDate>Mon, 29 Jul 2024 12:00:00 GMT</lastBuildDate>
+        <generator>FakeRSSGenerator</generator>
+        <author>Daily News Team</author>
+        <image>
+            <url>http://u840903.com/images/03.png</url>
+            <title>The Economic Pulse</title>
+            <link>http://www.economicpulsepodcast.com</link>
+        </image>
+
+        <item>
+            <title>Global Market Trends</title>
+            <link>http://www.dailynewsroundup.com/episodes/10</link>
+            <description>In today's episode, we discuss the latest trends in the global markets, including stock performances, commodity prices, and economic indicators.</description>
+            <pubDate>Mon, 29 Jul 2024 12:00:00 GMT</pubDate>
+            <guid isPermaLink="false">http://www.dailynewsroundup.com/episodes/10</guid>
+            <enclosure url="https://example.com/audio/global_markets.mp3" length="20485760" type="audio/mpeg"/>
+            <itunes:duration>00:20:48</itunes:duration>
+        </item>
+
+        <item>
+            <title>Political Developments</title>
+            <link>http://www.dailynewsroundup.com/episodes/9</link>
+            <description>Today, we cover significant political developments from around the world, including elections, policy changes, and diplomatic relations.</description>
+            <pubDate>Sat, 27 Jul 2024 12:00:00 GMT</pubDate>
+            <guid isPermaLink="false">http://www.dailynewsroundup.com/episodes/9</guid>
+            <enclosure url="https://example.com/audio/political_developments.mp3" length="18539456" type="audio/mpeg"/>
+            <itunes:duration>00:19:23</itunes:duration>
+        </item>
+
+        <item>
+            <title>Tech Innovations</title>
+            <link>http://www.dailynewsroundup.com/episodes/8</link>
+            <description>In this episode, we explore the latest innovations in the tech industry, including new product launches, breakthroughs, and industry trends.</description>
+            <pubDate>Thu, 25 Jul 2024 12:00:00 GMT</pubDate>
+            <guid isPermaLink="false">http://www.dailynewsroundup.com/episodes/8</guid>
+            <enclosure url="https://example.com/audio/tech_innovations.mp3" length="21039424" type="audio/mpeg"/>
+            <itunes:duration>00:21:56</itunes:duration>
+        </item>
+
+        <item>
+            <title>Health and Wellness</title>
+            <link>http://www.dailynewsroundup.com/episodes/7</link>
+            <description>Today, we delve into the latest news in health and wellness, including new medical research, health tips, and updates on global health issues.</description>
+            <pubDate>Tue, 23 Jul 2024 12:00:00 GMT</pubDate>
+            <guid isPermaLink="false">http://www.dailynewsroundup.com/episodes/7</guid>
+            <enclosure url="https://example.com/audio/health_wellness.mp3" length="19327456" type="audio/mpeg"/>
+            <itunes:duration>00:18:43</itunes:duration>
+        </item>
+
+        <item>
+            <title>Environmental Updates</title>
+            <link>http://www.dailynewsroundup.com/episodes/6</link>
+            <description>In this episode, we cover important environmental updates, including climate change news, conservation efforts, and environmental policies.</description>
+            <pubDate>Sun, 21 Jul 2024 12:00:00 GMT</pubDate>
+            <guid isPermaLink="false">http://www.dailynewsroundup.com/episodes/6</guid>
+            <enclosure url="https://example.com/audio/environmental_updates.mp3" length="20485760" type="audio/mpeg"/>
+            <itunes:duration>00:20:48</itunes:duration>
+        </item>
+
+        <item>
+            <title>Business News</title>
+            <link>http://www.dailynewsroundup.com/episodes/5</link>
+            <description>Today, we bring you the latest business news, including corporate earnings, mergers and acquisitions, and market analysis.</description>
+            <pubDate>Fri, 19 Jul 2024 12:00:00 GMT</pubDate>
+            <guid isPermaLink="false">http://www.dailynewsroundup.com/episodes/5</guid>
+            <enclosure url="https://example.com/audio/business_news.mp3" length="19839424" type="audio/mpeg"/>
+            <itunes:duration>00:19:50</itunes:duration>
+        </item>
+
+        <item>
+            <title>Science Discoveries</title>
+            <link>http://www.dailynewsroundup.com/episodes/4</link>
+            <description>In this episode, we highlight the latest discoveries in science, including new research findings, scientific advancements, and space exploration news.</description>
+            <pubDate>Wed, 17 Jul 2024 12:00:00 GMT</pubDate>
+            <guid isPermaLink="false">http://www.dailynewsroundup.com/episodes/4</guid>
+            <enclosure url="https://example.com/audio/science_discoveries.mp3" length="21285760" type="audio/mpeg"/>
+            <itunes:duration>00:22:08</itunes:duration>
+        </item>
+
+        <item>
+            <title>Sports Highlights</title>
+            <link>http://www.dailynewsroundup.com/episodes/3</link>
+            <description>Today, we provide a roundup of the latest sports highlights, including scores, player performances, and upcoming events.</description>
+            <pubDate>Mon, 15 Jul 2024 12:00:00 GMT</pubDate>
+            <guid isPermaLink="false">http://www.dailynewsroundup.com/episodes/3</guid>
+            <enclosure url="https://example.com/audio/sports_highlights.mp3" length="18939456" type="audio/mpeg"/>
+            <itunes:duration>00:19:10</itunes:duration>
+        </item>
+
+        <item>
+            <title>Entertainment News</title>
+            <link>http://www.dailynewsroundup.com/episodes/2</link>
+            <description>In this episode, we cover the latest news in the entertainment industry, including celebrity gossip, new movie releases, and music trends.</description>
+            <pubDate>Sat, 13 Jul 2024 12:00:00 GMT</pubDate>
+            <guid isPermaLink="false">http://www.dailynewsroundup.com/episodes/2</guid>
+            <enclosure url="https://example.com/audio/entertainment_news.mp3" length="20385760" type="audio/mpeg"/>
+            <itunes:duration>00:20:39</itunes:duration>
+        </item>
+
+        <item>
+            <title>Top News Stories</title>
+            <link>http://www.dailynewsroundup.com/episodes/1</link>
+            <description>Welcome to the Daily News Roundup. In this episode, we provide a summary of the top news stories from around the world, giving you a quick and comprehensive update on current events.</description>
+            <pubDate>Thu, 11 Jul 2024 12:00:00 GMT</pubDate>
+            <guid isPermaLink="false">http://www.dailynewsroundup.com/episodes/1</guid>
+            <enclosure url="https://example.com/audio/top_news_stories.mp3" length="20485760" type="audio/mpeg"/>
+            <itunes:duration>00:20:48</itunes:duration>
+        </item>
+    </channel>
+</rss>
