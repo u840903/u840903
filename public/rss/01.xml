@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sr="http://www.sverigesradio.se/podrss" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>The Economic Pulse</title>
     <link>http://www.economicpulsepodcast.com</link>
@@ -21,6 +20,8 @@
       <description>An in-depth analysis of the potential future of cryptocurrency in the global economy.</description>
       <pubDate>Mon, 22 Jul 2024 12:00:00 GMT</pubDate>
       <guid isPermaLink="false">http://www.economicpulsepodcast.com/episodes/10</guid>
+      <enclosure url="https://sverigesradio.se/topsy/ljudfil/itunes/9414769.mp3" length="86888994" type="audio/mpeg"/>
+      <itunes:duration>01:30:29</itunes:duration>
     </item>
 
     <item>
@@ -29,6 +30,8 @@
       <description>Exploring the causes, effects, and control measures of inflation in modern economies.</description>
       <pubDate>Mon, 15 Jul 2024 12:00:00 GMT</pubDate>
       <guid isPermaLink="false">http://www.economicpulsepodcast.com/episodes/9</guid>
+      <enclosure url="https://sverigesradio.se/topsy/ljudfil/itunes/9414769.mp3" length="86888994" type="audio/mpeg"/>
+      <itunes:duration>01:30:29</itunes:duration>
     </item>
 
     <item>
@@ -37,6 +40,8 @@
       <description>A look at the current state of global trade and its impact on national economies.</description>
       <pubDate>Mon, 8 Jul 2024 12:00:00 GMT</pubDate>
       <guid isPermaLink="false">http://www.economicpulsepodcast.com/episodes/8</guid>
+      <enclosure url="https://sverigesradio.se/topsy/ljudfil/itunes/9414769.mp3" length="86888994" type="audio/mpeg"/>
+      <itunes:duration>01:30:29</itunes:duration>
     </item>
 
     <item>
@@ -45,6 +50,8 @@
       <description>Understanding the functions and influence of central banks in modern economies.</description>
       <pubDate>Mon, 1 Jul 2024 12:00:00 GMT</pubDate>
       <guid isPermaLink="false">http://www.economicpulsepodcast.com/episodes/7</guid>
+      <enclosure url="https://sverigesradio.se/topsy/ljudfil/itunes/9414769.mp3" length="86888994" type="audio/mpeg"/>
+      <itunes:duration>01:30:29</itunes:duration>
     </item>
 
     <item>
@@ -53,6 +60,8 @@
       <description>An introduction to stock market principles and strategies for new investors.</description>
       <pubDate>Mon, 24 Jun 2024 12:00:00 GMT</pubDate>
       <guid isPermaLink="false">http://www.economicpulsepodcast.com/episodes/6</guid>
+      <enclosure url="https://sverigesradio.se/topsy/ljudfil/itunes/9414769.mp3" length="86888994" type="audio/mpeg"/>
+      <itunes:duration>01:30:29</itunes:duration>
     </item>
 
     <item>
@@ -61,6 +70,8 @@
       <description>Exploring the economic impacts and potential solutions to climate change.</description>
       <pubDate>Mon, 17 Jun 2024 12:00:00 GMT</pubDate>
       <guid isPermaLink="false">http://www.economicpulsepodcast.com/episodes/5</guid>
+      <enclosure url="https://sverigesradio.se/topsy/ljudfil/itunes/9414769.mp3" length="86888994" type="audio/mpeg"/>
+      <itunes:duration>01:30:29</itunes:duration>
     </item>
 
     <item>
@@ -69,6 +80,8 @@
       <description>A discussion on current trends and future outlook of the global labor market.</description>
       <pubDate>Mon, 10 Jun 2024 12:00:00 GMT</pubDate>
       <guid isPermaLink="false">http://www.economicpulsepodcast.com/episodes/4</guid>
+      <enclosure url="https://sverigesradio.se/topsy/ljudfil/itunes/9414769.mp3" length="86888994" type="audio/mpeg"/>
+      <itunes:duration>01:30:29</itunes:duration>
     </item>
 
     <item>
@@ -77,6 +90,8 @@
       <description>An overview of fiscal policies and their effects on national economies.</description>
       <pubDate>Mon, 3 Jun 2024 12:00:00 GMT</pubDate>
       <guid isPermaLink="false">http://www.economicpulsepodcast.com/episodes/3</guid>
+      <enclosure url="https://sverigesradio.se/topsy/ljudfil/itunes/9414769.mp3" length="86888994" type="audio/mpeg"/>
+      <itunes:duration>01:30:29</itunes:duration>
     </item>
 
     <item>
@@ -85,6 +100,8 @@
       <description>Examining the rise of the gig economy and its implications for workers and businesses.</description>
       <pubDate>Mon, 27 May 2024 12:00:00 GMT</pubDate>
       <guid isPermaLink="false">http://www.economicpulsepodcast.com/episodes/2</guid>
+      <enclosure url="https://sverigesradio.se/topsy/ljudfil/itunes/9414769.mp3" length="86888994" type="audio/mpeg"/>
+      <itunes:duration>01:30:29</itunes:duration>
     </item>
 
     <item>
@@ -93,6 +110,8 @@
       <description>Welcome to The Economic Pulse. In this episode, we introduce basic economic theories and concepts.</description>
       <pubDate>Mon, 20 May 2024 12:00:00 GMT</pubDate>
       <guid isPermaLink="false">http://www.economicpulsepodcast.com/episodes/1</guid>
+      <enclosure url="https://sverigesradio.se/topsy/ljudfil/itunes/9414769.mp3" length="86888994" type="audio/mpeg"/>
+      <itunes:duration>01:30:29</itunes:duration>
     </item>
   </channel>
 </rss>
